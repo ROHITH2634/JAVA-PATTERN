@@ -1,4 +1,32 @@
 # JAVA-PATTERN
+# EAGLE PATTERN
+#JAVA PATTERN PROGRAMMING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import java.util.Scanner;
 class eagle
 {
